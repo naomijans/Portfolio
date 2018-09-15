@@ -5,7 +5,8 @@ header {
  margin: 0;
  font family: Courgette;
 }
-  .navbar {
+
+.navbar {
   overflow: hidden; 
   background-color:#8ae8ff;
 }
@@ -13,7 +14,6 @@ header {
 .navbar a {
   float: left;
   color:#005875;
-  
   text-align: center;
   padding: 14px 16px;
   text-decoration:none;
