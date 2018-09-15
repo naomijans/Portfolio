@@ -3,23 +3,23 @@ h1 {
 }
 header {
  margin: 0;
- font family: Courgette;
+ font-family: Courgette;
 }
 
 .navbar {
   overflow: hidden; 
-  background-color:#8ae8ff;
+  background-color: #8ae8ff;
 }
 
 .navbar a {
   float: left;
-  color:#005875;
+  color: #005875;
   text-align: center;
   padding: 14px 16px;
-  text-decoration:none;
+  text-decoration: none;
   font size: 17px;
 }
 
 h1 {
-  color:#9ef5ff;
+  color: #9ef5ff;
 }
