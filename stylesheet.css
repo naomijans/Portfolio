@@ -1,6 +1,17 @@
 .navbar{
   overflow: hidden; 
-  background-color: #2cf000
+  background-color:#8ae8ff;
+}
+
+.navbar a {
+  float: left;
+  color:#000b0f
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration:none;
+  font size: 17px;
+}
+
    h1 {
-  color: blue;#00d0ff
+  color:#9ef5ff;
 }
