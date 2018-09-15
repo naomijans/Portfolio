@@ -1,3 +1,6 @@
-h1 {
-  color: red;
+.navbar{
+  overflow: hidden; 
+  background-color: #2cf000
+   h1 {
+  color: blue;#00d0ff
 }
