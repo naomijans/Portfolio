@@ -1,4 +1,8 @@
-.navbar {
+header {
+ margin: 0;
+ font family: Helvetica;
+}
+  .navbar {
   overflow: hidden; 
   background-color:#8ae8ff;
 }
