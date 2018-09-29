@@ -1,4 +1,3 @@
-
 h1 {
  border-bottom: 5px solid pink;
 }
@@ -34,4 +33,6 @@ h1 {
 
 .Furry Friends {
   float: right;
+  background-color: url("https://github.com/naomijans/Portfolio/blob/gh-pages/46073544-floral-seamless-pattern-flower-background-floral-tile-spring-texture-with-flowers-.jpg?raw=true");
+}
 }
